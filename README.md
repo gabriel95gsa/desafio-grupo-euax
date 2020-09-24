@@ -25,7 +25,7 @@ utilizada a ferramenta blade também disponibilizada pelo framework e bootstrap.
 não seja rodado com docker, será necessário alterar os dados de conexão de acordo com o servidor mysql
 utilizado.
 
-Oranização do sistema:
+Organização do sistema:
 - A tela principal é um modelo de dashboard admin, contendo na barra lateral o menu com as opções consulas 
 e cadastros de projetos e atividades.
 
